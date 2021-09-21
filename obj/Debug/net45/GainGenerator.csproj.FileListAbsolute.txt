@@ -1,0 +1,8 @@
+C:\Users\JustDylan\Documents\GainGenerator\obj\Debug\net45\GainGenerator.csproj.AssemblyReference.cache
+C:\Users\JustDylan\Documents\GainGenerator\obj\Debug\net45\GainGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustDylan\Documents\GainGenerator\obj\Debug\net45\GainGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JustDylan\Documents\GainGenerator\bin\Debug\net45\GainTools - Token Gen.exe.config
+C:\Users\JustDylan\Documents\GainGenerator\bin\Debug\net45\GainTools - Token Gen.exe
+C:\Users\JustDylan\Documents\GainGenerator\bin\Debug\net45\GainTools - Token Gen.pdb
+C:\Users\JustDylan\Documents\GainGenerator\obj\Debug\net45\GainTools - Token Gen.exe
+C:\Users\JustDylan\Documents\GainGenerator\obj\Debug\net45\GainTools - Token Gen.pdb
